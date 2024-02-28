@@ -1,0 +1,36 @@
+body {
+    background-image: url(4757.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  background-color: rgb(29, 26, 26);
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  height: 200px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.container button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #796f6f;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.container button:hover {
+  color: black;
+  background-color: white;
+}
